@@ -3,11 +3,11 @@
     "BIDSVersion": "1.10.0",
     "DatasetType": "raw",
     "GeneratedBy": [
-	{
-	   "Name": "dcm2niix"
-	}
+        {
+            "Name": "dcm2niix"
+        }
     ],
-    "SourceDatasets": [],   
+    "SourceDatasets": [],
     "License": "CC0",
     "Authors": [
         "Carina Heller",
@@ -36,14 +36,17 @@
     "HowToAcknowledge": "Please cite this paper: https://doi.org/XX",
     "Funding": [
         "German Research Foundation",
-	"IMPULSEProject",
+        "IMPULSEProject",
         "Interdisciplinary Center of Clinical Research of the Medical Faculty Jena",
         "National Institutes of Health",
         "Wellcome Trust Collaborative Award",
-	"Marie Skłodowska-Curie Innovative Training Network"
+        "Marie Skłodowska-Curie Innovative Training Network"
     ],
     "ReferencesAndLinks": [
         "https://doi.org/...."
     ],
-    "DatasetDOI": "doi:XX"
+    "DatasetDOI": "doi:XX",
+    "EthicsApprovals": [
+        "The Friedrich Schiller University Jena Ethics Committee (Jena, German) approved the study."
+    ]
 }
