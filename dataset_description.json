@@ -42,9 +42,7 @@
         "Wellcome Trust Collaborative Award",
         "Marie Skłodowska-Curie Innovative Training Network"
     ],
-    "ReferencesAndLinks": [
-        "https://doi.org/...."
-    ],
+    "ReferencesAndLinks": [],
     "DatasetDOI": "doi:10.18112/openneuro.ds006491.v1.0.0",
     "EthicsApprovals": [
         "The Friedrich Schiller University Jena Ethics Committee (Jena, German) approved the study."
